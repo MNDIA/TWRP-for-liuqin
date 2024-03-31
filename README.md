@@ -1,10 +1,3 @@
-## Automated TWRP compilation based on Github Action
-
-## Advertising
-
-1. OrangeFox is [here](https://github.com/azwhikaru/Action-OFRP-Builder)
-
-## Notice
 
 **Recovery-12.1 Build TWRP for liuqin device**
 
