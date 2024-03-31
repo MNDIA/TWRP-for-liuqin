@@ -3,8 +3,6 @@
 
 
 
-All contributors
-
 ## Parameter Description
 
 | Name                 | Description                                       | Example                                                      |
