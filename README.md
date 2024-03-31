@@ -18,7 +18,7 @@ All contributors
 | -------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
 | `MANIFEST_URL`       | Source address                                    | https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git |
 | `MANIFEST_BRANCH`    | Source branch                                     | twrp-12.1                                                    |
-| `DEVICE_TREE_URL`    | Device address                                    | [https://github.com/TeamWin/android_device_asus_I003D](https://github.com/MNDIA/LIUQIN-TWRP)|
+| `DEVICE_TREE_URL`    | Device address                                    | https://github.com/MNDIA/LIUQIN-TWRP                         |
 | `DEVICE_TREE_BRANCH` | Device branch                                     | twrp-12.1                                                    |
 | `DEVICE_PATH`        | Device location                                   | device/xiaomi/liuqin                                         |
 | `COMMON_TREE_URL`    | Common tree address                               | - |
